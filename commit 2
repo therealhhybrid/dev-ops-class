@@ -1,0 +1,12 @@
+// Simple JavaScript Program
+
+// Function to greet the user
+function greetUser(name) {
+    console.log(`Hello, ${name}! Welcome to my DevOps repo.`);
+}
+
+// Call the function
+greetUser("Dolapo");
+
+// Display current date and time
+console.log("Current Date and Time:", new Date().toLocaleString());
