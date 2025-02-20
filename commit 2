@@ -1,6 +1,6 @@
 // Simple JavaScript Program
 
-// Function to greet the user
+// Function to greet the user second time to show changes
 function greetUser(name) {
     console.log(`Hello, ${name}! Welcome to my DevOps repo.`);
 }
